@@ -1,4 +1,5 @@
 Участие в хакатоне VTB MORE.tech2024
+
 Трек: "Озеро данных"
 
 Команда: Iceberg Explorers
